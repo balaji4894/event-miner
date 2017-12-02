@@ -7,12 +7,12 @@ import java.util.List;
 import java.util.Map;
 import java.util.Random;
 
-import org.bars.eventminer.AbstractEventIdentifier;
-import org.bars.eventminer.AbstractEventSorter;
-import org.bars.eventminer.AbstractTransactionKey;
-import org.bars.eventminer.Event;
-import org.bars.eventminer.EventLink;
-import org.bars.eventminer.Transaction;
+import org.bars.eventminer.abstractions.AbstractEventIdentifier;
+import org.bars.eventminer.abstractions.AbstractEventSorter;
+import org.bars.eventminer.abstractions.AbstractTransactionKey;
+import org.bars.eventminer.events.Event;
+import org.bars.eventminer.events.EventLink;
+import org.bars.eventminer.transaction.Transaction;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility;
 import com.fasterxml.jackson.annotation.PropertyAccessor;

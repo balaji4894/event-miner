@@ -1,10 +1,13 @@
-package org.bars.eventminer;
+package org.bars.eventminer.transaction;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.bars.eventminer.abstractions.AbstractEventIdentifier;
+import org.bars.eventminer.events.Event;
+import org.bars.eventminer.events.EventLink;
 import org.bars.eventminer.exceptions.EventProcessingException;
 
 /**

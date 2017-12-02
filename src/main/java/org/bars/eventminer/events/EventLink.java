@@ -1,4 +1,6 @@
-package org.bars.eventminer;
+package org.bars.eventminer.events;
+
+import org.bars.eventminer.abstractions.AbstractEventIdentifier;
 
 /**
  * 

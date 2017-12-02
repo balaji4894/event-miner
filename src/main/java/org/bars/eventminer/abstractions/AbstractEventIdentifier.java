@@ -1,4 +1,4 @@
-package org.bars.eventminer;
+package org.bars.eventminer.abstractions;
 
 /**
  * 
