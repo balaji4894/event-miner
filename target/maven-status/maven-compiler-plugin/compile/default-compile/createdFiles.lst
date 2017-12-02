@@ -1,0 +1,11 @@
+org\bars\eventminer\sample\TransactionKey.class
+org\bars\eventminer\AbstractEventSorter.class
+org\bars\eventminer\Transaction.class
+org\bars\eventminer\Event.class
+org\bars\eventminer\exceptions\EventProcessingException.class
+org\bars\eventminer\AbstractEventIdentifier.class
+org\bars\eventminer\EventLink.class
+org\bars\eventminer\sample\EventSortingproperty.class
+org\bars\eventminer\sample\EventIdentifier.class
+org\bars\eventminer\sample\SampleMinerApp.class
+org\bars\eventminer\AbstractTransactionKey.class
